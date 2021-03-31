@@ -2,7 +2,7 @@ namespace Bank
 {
     public class SavingsAccount
     {
-        static float annualInterest;
+        static float annualInterest = 4;
         static float AnnualInterestRate { get {return annualInterest;} 
                                             set { if (value >= 0) {annualInterest = value;} } 
                                         }
@@ -13,9 +13,9 @@ namespace Bank
             private set { if (value > 0) {savingBalance = value;} }
         }
 
-        public SavingsAccount(double saving, float annualInterestRate = 0)
+        public SavingsAccount(double saving)
         {
-            AnnualInterestRate = annualInterestRate;
+            // AnnualInterestRate = annualInterestRate;
             SavingBalance = saving;
         }
 
