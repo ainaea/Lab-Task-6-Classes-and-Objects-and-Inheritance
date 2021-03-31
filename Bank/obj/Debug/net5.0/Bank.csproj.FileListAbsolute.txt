@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\bin\Debug\net5.0\Bank.exe
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\bin\Debug\net5.0\Bank.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\bin\Debug\net5.0\Bank.pdb
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.pdb
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache

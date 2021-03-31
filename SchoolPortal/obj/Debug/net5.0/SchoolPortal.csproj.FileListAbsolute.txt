@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\bin\Debug\net5.0\SchoolPortal.exe
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\bin\Debug\net5.0\SchoolPortal.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\bin\Debug\net5.0\SchoolPortal.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\bin\Debug\net5.0\SchoolPortal.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\bin\Debug\net5.0\SchoolPortal.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\bin\Debug\net5.0\ref\SchoolPortal.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\bin\Debug\net5.0\SchoolPortal.pdb
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\ref\SchoolPortal.dll
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.pdb
+C:\CodebitsAcademy\C#  labTask\labTask6-Classess,ObjectsAndInheritance\SchoolPortal\obj\Debug\net5.0\SchoolPortal.genruntimeconfig.cache
