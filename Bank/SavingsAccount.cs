@@ -19,14 +19,14 @@ namespace Bank
             SavingBalance = saving;
         }
 
-        static void ModifyInterestRate(float rate)
+        public static void ModifyInterestRate(float rate)
         {
             AnnualInterestRate = rate;
         }
 
         public void CalculateMonthlyInterest()
         {
-            savingBalance = AnnualInterestRate * savingBalance / 12 + savingBalance;
+            savingBalance = AnnualInterestRate * savingBalance / 1200 + savingBalance;
         }
         
 
